@@ -65,7 +65,7 @@ Surfaces queries, response types, NXDOMAIN answers, and DNS answer instability, 
 Clone the repository:
 
 ```bash
-git clone git@github.com:NetShell-IR/pcap-analyzer.git
+git clone [git@github.com:NetShell-IR/pcap-analyzer.git](https://github.com/NetShell-IR/pcap-analyzer.git)
 cd pcap-analyzer
 ```
 
